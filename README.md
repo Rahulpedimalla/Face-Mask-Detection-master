@@ -24,19 +24,19 @@ Real-time face mask detection system using deep learning and computer vision. Ut
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Rahulpedimalla/Face-Mask-Detection-master
 
-2. Install dependencies:
+2. Install dependencies: pip install -r requirements.txt
 
 ## Usage
 
 ### Training the Model
 
-Run the training script to train or fine-tune the model:
+Run the training script to train or fine-tune the model: python train_mask_detector.py
 
 ### Running Mask Detection
 
-Start the webcam mask detection:
+Start the webcam mask detection: python detect_mask_video.py
 
 ## Requirements
 
